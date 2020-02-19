@@ -15,21 +15,33 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "fab fa-laravel"
   icon_pack = "fab"
-  name = "R"
+  name = "Laravel"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "fab fa-php"
+  icon_pack = "fab"
+  name = "PHP"
+  description = "90%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "fab fa-js"
+  icon_pack = "fab"
+  name = "Javascript"
+  description = "80%"
+  
+[[feature]]
+  icon = "fab fa-bootstrap"
+  icon_pack = "fab"
+  name = "Bootstrap"
+  description = "90%"
+  
+[[feature]]
+  icon = "fas fa-database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "MySql"
+  description = "90%"
 
 +++
